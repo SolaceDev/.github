@@ -9,8 +9,8 @@
 
 </div>
 
-## Welcome to the SolaceDevs Github Orgnaziation! 
+## Welcome to the SolaceDev Github Orgnaziation! 
 
-The SolaceDevs organization contains repositories to work on development versions of tools found in [Solace Products](https://github.com/SolaceProducts)
+The SolaceDev organization contains repositories where Solace employees develop many of the products found in [Solace Products](https://github.com/SolaceProducts) as well as other projects.
 
 🧙 If you have any questions, feel free to surf our [Solace Community Forum](https://solace.community/)
